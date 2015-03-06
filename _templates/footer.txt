@@ -1,0 +1,6 @@
+## How to contribute
+
+This Changelog is created from milestones and related PullRequests automaticaly.
+
+- `git clone this repository ( or wiki)`
+- do `rake` to output CHANGELOG
