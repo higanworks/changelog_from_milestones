@@ -1,2 +1,4 @@
 # Changes of My Application
 
+このREADMEはRakeでマイルストーンから自動生成したChangeLogです。
+
