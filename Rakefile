@@ -13,7 +13,7 @@ task :default do
   titles.each do |title|
     ms = get_milestone_by_title(title)
     next unless ms
-    puts "## [#{ms.title}](#{ms.url}) (#{ms.state})"
+    puts "## [#{ms.title}](#{ms.html_url}) (#{ms.state})"
     puts "created_at: #{ms.created_at.to_s}  "
     streak = ""
     if ms.closed_at
