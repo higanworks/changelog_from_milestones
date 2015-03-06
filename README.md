@@ -7,6 +7,10 @@ created_at: 2015-03-06 08:39:29 UTC
 <blockquote>
 非互換を含むアップグレードなので、手順を追って更新しましょう(というようなことを書く)。
 </blockquote>
+- バックアップツールを作成（ダミーIssue） by sawanoboly
+    - ![enhancement](https://img.shields.io/badge/L-enhancement-84b6eb.svg)
+- 良い機能を1つ by sawanoboly
+    - ![enhancement](https://img.shields.io/badge/L-enhancement-84b6eb.svg)
 
 ----
 ## [v0.0.2](https://github.com/higanworks/changelog_from_milestones/milestones/v0.0.2) (open)
